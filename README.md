@@ -3,8 +3,7 @@
 Most Gambians do not know their blood type talkless of their medical history, which hinders doctors' diagnoses. Additionally, most of us travel miles to reach hospitals afterward have wait in a long queue before accessing a doctor.
 It is very difficult to alert citizens when they come in contact with a COVID-19 infected person. Which makes it essential to have a platform which can quickly inform and educate the Gambian citizens about pandemics when the need arises.
 
-![alt text](https://github.com/kemojal/OpitalApp/blob/master/misc/Screen%20Shot%202020-05-12%20at%202.28.55%20PM.png)
-
+![alt text](https://github.com/kemojal/OpitalApp/blob/master/misc/Project-Devices-Showcase-vol3.png)
 
 My Opital help manages:
 1. health staff scheduling, 
