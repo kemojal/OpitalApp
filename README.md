@@ -5,4 +5,11 @@ Additionally, it is very difficult to alert citizens when they come in contact w
 
 
 
-My Project idea is Help manage health staff scheduling, predict and reduce appointment no-shows, save time on administrative tasks in our hospitals, prevent long hospital queues, helps patients to access healthcare 24/7, patients can schedule and reschedule appointments any time from anywhere, and patients can communicate with their care team in real-time.
+My Opital help manages:
+1. health staff scheduling, 
+2. predict and reduce appointment no-shows, 
+3. save time on administrative tasks in our hospitals.
+4. prevent long hospital queues.
+5. helps patients to access healthcare 24/7. 
+6. Users can schedule and reschedule appointments any time from anywhere.
+7. Help in tracing covid-19 and quickly notifies you when you are about to come in contact with someone who is infected.
